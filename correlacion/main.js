@@ -5,7 +5,10 @@ document.onreadystatechange = () => {
       "data": {"url": "https://raw.githubusercontent.com/serman/hackatind3/master/data/municipalities_data_cluster_y_tasas.csv"},
       "mark": "point",
       "encoding": {
-        "x": {"field": "tasa_movilidad","type": "quantitative"},
+        "x": {
+          "field": "tasa_movilidad","type": "quantitative",
+          "scale": {"zero": false}
+        },
         "y": {"field": "renta-bruta-media","type": "quantitative"}, 
         "color": {"field": "Cluster" }},
       "width": "500",
@@ -20,11 +23,7 @@ document.onreadystatechange = () => {
     $("[data-name='var-selector']").change(function(e){
 
       var new_var = e.target.value;
-      vega_config.encoding = {
-        x: {"field": "tasa_movilidad","type": "quantitative"},
-        y: {"field": e.target.value,"type": "quantitative"},
-        "color": {"field": "Cluster" },
-      }
+      vega_config.encoding.y.field = e.target.value;
 
       vegaEmbed("#vis", vega_config);
     }); 
