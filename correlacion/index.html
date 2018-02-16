@@ -8,11 +8,50 @@
   <meta name="description" content="The Hackatin correlation superproject">
   <meta name="author" content="la comunidad d3">
 
-  <link rel="stylesheet" href="styles.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
+  <!-- Vega libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@3.0.10"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@2.1.3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.0.0"></script>
+
+  <!-- custom files -->
+  <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
+  <div class="container">
+    <div class="page-header">
+      <h1>The Hackatin correlation Superproject</h1>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md.3">
+        <div class="form-group">
+          <label for="varSelector">Selecciona la variable</label>
+          <select class="form-control" id="varSelector" data-name="var-selector">
+            <option value="afiliados-ss">Afiliados SS</option>
+            <option value="autonomos">Nº Autónomos</option>
+            <option value="empresas">Nº Empresas</option>
+            <option value="personas-paradas">Nº Parados</option>
+            <option value="poblacion">Población</option>
+            <option value="renta-bruta-media">Renta Bruta Media</option>
+            <option value="renta-disponible-media">Renta Disponible Media</option>
+            <option value="viviendas-familiares">Viviendas familiares</option>
+            <option value="viviendas-principales">Viviendas principales</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-lg-9 col-md-9">
+        <div id="vis">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   <script src="main.js"></script>
 </body>
 </html>
