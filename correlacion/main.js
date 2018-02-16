@@ -22,7 +22,8 @@ document.onreadystatechange = () => {
       var new_var = e.target.value;
       vega_config.encoding = {
         x: {"field": "tasa_movilidad","type": "quantitative"},
-        y: {"field": e.target.value,"type": "quantitative"}
+        y: {"field": e.target.value,"type": "quantitative"},
+        "color": {"field": "Cluster" },
       }
 
       vegaEmbed("#vis", vega_config);
