@@ -1,50 +1,11 @@
-body{
-    padding:20px;
-}
-svg {
-    font: 20px sans-serif;
-}
-
-p {
-    margin: 6px 2px;
+.links path {
+  fill: none;
+  stroke: #999;
+  stroke-opacity: 0.6;
 }
 
-.axisTitle {
-    font: bold 12px sans-serif;
-}
-
-.x.axis .domain {
-    fill: none;
-    stroke: #000;
-    shape-rendering: crispEdges;
-}
-
-.d3-tip {
-    line-height: 1;
-    font-weight: bold;
-    padding: 8px;
-    background: rgba(0, 0, 0, 0.8);
-    color: #fff;
-    border-radius: 2px;
-    font: 14px sans-serif;
-}
-/* Creates a small triangle extender for the tooltip */
-
-.d3-tip:after {
-    box-sizing: border-box;
-    display: inline;
-    font-size: 10px;
-    width: 100%;
-    line-height: 1;
-    color: rgba(0, 0, 0, 0.8);
-    content: "\25BC";
-    position: absolute;
-    text-align: center;
-}
-/* Style northward tooltips differently */
-
-.d3-tip.n:after {
-    margin: -1px 0 0 0;
-    top: 100%;
-    left: 0;
+.nodes circle {
+  fill: #d62333;
+  stroke: #fff;
+  stroke-width: 1px;
 }
