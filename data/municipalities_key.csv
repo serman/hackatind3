@@ -1,0 +1,235 @@
+location_id,statistic_zone_id,province_name,statistic_zone_name,municipality_slug,municipality_lat,municipality_lon,municipality_name
+19024,12,Guadalajara,Municipios de la Provincia de Guadalajara,alovera,40.5961557,-3.2477262,Alovera
+19046,12,Guadalajara,Municipios de la Provincia de Guadalajara,azuqueca-de-henares,40.5648765,-3.2680616,Azuqueca de Henares
+19058,12,Guadalajara,Municipios de la Provincia de Guadalajara,cabanillas-del-campo,40.6378501,-3.2307113,Cabanillas del Campo
+19071,12,Guadalajara,Municipios de la Provincia de Guadalajara,el-casar,40.7058621,-3.427332,El casar
+19105,12,Guadalajara,Municipios de la Provincia de Guadalajara,chiloeches,40.5723871,-3.1637624,Chiloeches
+19117,12,Guadalajara,Municipios de la Provincia de Guadalajara,fontanar,40.7267596,-3.1767108,Fontanar
+19126,12,Guadalajara,Municipios de la Provincia de Guadalajara,galapagos,40.6916964,-3.3426697,Galápagos
+19130,12,Guadalajara,Municipios de la Provincia de Guadalajara,guadalajara,40.632489,-3.16017,Guadalajara
+19160,12,Guadalajara,Municipios de la Provincia de Guadalajara,loranca-de-tajuna,40.4476695,-3.114935,Loranca de Tajuña
+19171,12,Guadalajara,Municipios de la Provincia de Guadalajara,marchamalo,40.6678056,-3.2018198,Marchamalo
+19220,12,Guadalajara,Municipios de la Provincia de Guadalajara,pioz,40.463533,-3.1748281,Pioz
+19225,12,Guadalajara,Municipios de la Provincia de Guadalajara,pozo-de-guadalajara,40.4951443,-3.1811039,Pozo de Guadalajara
+19230,12,Guadalajara,Municipios de la Provincia de Guadalajara,quer,40.6079824,-3.2778796,Quer
+19280,12,Guadalajara,Municipios de la Provincia de Guadalajara,torrejon-del-rey,40.6456116,-3.3370028,Torrejón del Rey
+19286,12,Guadalajara,Municipios de la Provincia de Guadalajara,tortola-de-henares,40.7059844,-3.1259046,Tórtola de Henares
+19297,12,Guadalajara,Municipios de la Provincia de Guadalajara,valdarachas,40.5166525,-3.1262181,Valdarachas
+19300,12,Guadalajara,Municipios de la Provincia de Guadalajara,valdeaveruelo,40.6359766,-3.3193764,Valdeaveruelo
+19319,12,Guadalajara,Municipios de la Provincia de Guadalajara,villanueva-de-la-torre,40.58636509999999,-3.2991864,Villanueva de la Torre
+19326,12,Guadalajara,Municipios de la Provincia de Guadalajara,yebes,40.5335723,-3.1111745,Yebes
+19331,12,Guadalajara,Municipios de la Provincia de Guadalajara,yunquera-de-henares,40.7523479,-3.1666708,Yunquera de Henares
+28001,06,Madrid,Sierra Norte,acebeda-la,40.3405608,-3.7170023,"Acebeda, La"
+28002,03,Madrid,Este Metropolitano,ajalvir,40.5302674,-3.4839237,Ajalvir
+28003,06,Madrid,Sierra Norte,alameda-del-valle,40.9187866,-3.8439011,Alameda del Valle
+28004,09,Madrid,Sudoeste Comunidad,alamo-el,40.2312091,-3.9942211,"Álamo, El"
+28005,03,Madrid,Este Metropolitano,alcala-de-henares,40.4819791,-3.3635421,Alcalá de Henares
+28006,02,Madrid,Norte Metropolitano,alcobendas,40.5372512,-3.6372245,Alcobendas
+28007,04,Madrid,Sur Metropolitano,alcorcon,40.3468454,-3.8278443,Alcorcón
+28008,09,Madrid,Sudoeste Comunidad,aldea-del-fresno,40.3208765,-4.1987434,Aldea del Fresno
+28009,02,Madrid,Norte Metropolitano,algete,40.5964617,-3.5016452,Algete
+28010,11,Madrid,Sierra Central,alpedrete,40.6621635,-4.031169,Alpedrete
+28011,08,Madrid,Sudeste Comunidad,ambite,40.3283739,-3.1823592,Ambite
+28012,08,Madrid,Sudeste Comunidad,anchuelo,40.4647291,-3.2690503,Anchuelo
+28013,04,Madrid,Sur Metropolitano,aranjuez,40.0305018,-3.6040527,Aranjuez
+28014,03,Madrid,Este Metropolitano,arganda-del-rey,40.3064463,-3.4479063,Arganda del Rey
+28015,09,Madrid,Sudoeste Comunidad,arroyomolinos-madrid,40.2783308,-3.9215541,Arroyomolinos
+28016,06,Madrid,Sierra Norte,atazar-el,40.3988486,-3.6861415,"Atazar, El"
+28017,09,Madrid,Sudoeste Comunidad,batres,40.2098126,-3.9199616,Batres
+28018,11,Madrid,Sierra Central,becerril-de-la-sierra,40.7102483,-3.9954969,Becerril de la Sierra
+28019,08,Madrid,Sudeste Comunidad,belmonte-de-tajo,40.1344349,-3.3376324,Belmonte de Tajo
+28020,06,Madrid,Sierra Norte,berzosa-del-lozoya,40.9755539,-3.5236688,Berzosa del Lozoya
+28021,06,Madrid,Sierra Norte,berrueco-el,40.8893089,-3.5629234,"Berrueco, El"
+28022,05,Madrid,Oeste Metropolitano,boadilla-del-monte,40.4122794,-3.8887699,Boadilla del Monte
+28023,11,Madrid,Sierra Central,boalo-el,40.3659918,-3.6161069,"Boalo, El"
+28024,06,Madrid,Sierra Norte,braojos,41.0402585,-3.6429982,Braojos
+28025,08,Madrid,Sudeste Comunidad,brea-de-tajo,40.2295666,-3.1096078,Brea de Tajo
+28026,05,Madrid,Oeste Metropolitano,brunete,40.4043103,-3.9993244,Brunete
+28027,06,Madrid,Sierra Norte,buitrago-del-lozoya,40.989823,-3.6383114,Buitrago del Lozoya
+28028,06,Madrid,Sierra Norte,bustarviejo,40.857568,-3.7092432,Bustarviejo
+28029,06,Madrid,Sierra Norte,cabanillas-de-la-sierra,40.8187877,-3.6246658,Cabanillas de la Sierra
+28030,06,Madrid,Sierra Norte,cabrera-la,40.47253,-3.72044,"Cabrera, La"
+28031,10,Madrid,Sierra Sur,cadalso-de-los-vidrios,40.3015944,-4.4426499,Cadalso de los Vidrios
+28032,07,Madrid,Nordeste Comunidad,camarma-de-esteruelas,40.5474107,-3.3766851,Camarma de Esteruelas
+28033,08,Madrid,Sudeste Comunidad,campo-real,40.3390034,-3.3833163,Campo Real
+28034,06,Madrid,Sierra Norte,canencia,40.9070688,-3.7397005,Canencia
+28035,08,Madrid,Sudeste Comunidad,carabana,40.2567009,-3.2376227,Carabaña
+28036,09,Madrid,Sudoeste Comunidad,casarrubuelos,40.1709362,-3.8318182,Casarrubuelos
+28037,10,Madrid,Sierra Sur,cenicientos,40.2624728,-4.4658148,Cenicientos
+28038,11,Madrid,Sierra Central,cercedilla,40.7406497,-4.0568488,Cercedilla
+28039,06,Madrid,Sierra Norte,cervera-de-buitrago,40.9218597,-3.5300444,Cervera de Buitrago
+28040,04,Madrid,Sur Metropolitano,ciempozuelos,40.157955,-3.6192473,Ciempozuelos
+28041,02,Madrid,Norte Metropolitano,cobena,40.5683393,-3.5040753,Cobeña
+28042,10,Madrid,Sierra Sur,colmenar-del-arroyo,40.4176079,-4.1987434,Colmenar del Arroyo
+28043,08,Madrid,Sudeste Comunidad,colmenar-de-oreja,40.1098823,-3.39055,Colmenar de Oreja
+28044,11,Madrid,Sierra Central,colmenarejo,40.5609399,-4.0167486,Colmenarejo
+28045,02,Madrid,Norte Metropolitano,colmenar-viejo,40.6626481,-3.7710457,Colmenar Viejo
+28046,11,Madrid,Sierra Central,collado-mediano,40.6951303,-4.0299546,Collado Mediano
+28047,05,Madrid,Oeste Metropolitano,collado-villalba,40.6308775,-4.0055605,Collado Villalba
+28048,08,Madrid,Sudeste Comunidad,corpa,40.4254386,-3.2640205,Corpa
+28049,03,Madrid,Este Metropolitano,coslada,40.4260459,-3.5651646,Coslada
+28050,09,Madrid,Sudoeste Comunidad,cubas-de-la-sagra,40.191512,-3.8372233,Cubas de la Sagra
+28051,10,Madrid,Sierra Sur,chapineria,40.3789786,-4.2115526,Chapinería
+28052,08,Madrid,Sudeste Comunidad,chinchon,40.1402665,-3.4221687,Chinchón
+28053,07,Madrid,Nordeste Comunidad,daganzo-de-arriba,40.5450298,-3.4574079,Daganzo de Arriba
+28054,11,Madrid,Sierra Central,escorial-el,40.4241189,-3.7037734,"Escorial, El"
+28055,08,Madrid,Sudeste Comunidad,estremera,40.1836518,-3.107101,Estremera
+28056,10,Madrid,Sierra Sur,fresnedillas-de-la-oliva,40.4864017,-4.1722255,Fresnedillas de la Oliva
+28057,07,Madrid,Nordeste Comunidad,fresno-de-torote,40.5923751,-3.4123004,Fresno de Torote
+28058,04,Madrid,Sur Metropolitano,fuenlabrada,40.2902056,-3.8035477,Fuenlabrada
+28059,07,Madrid,Nordeste Comunidad,fuente-el-saz-de-jarama,40.6352139,-3.5107894,Fuente el Saz de Jarama
+28060,08,Madrid,Sudeste Comunidad,fuentiduena-de-tajo,40.1188967,-3.1616515,Fuentidueña de Tajo
+28061,05,Madrid,Oeste Metropolitano,galapagar,40.5768377,-4.0058027,Galapagar
+28062,06,Madrid,Sierra Norte,garganta-de-los-montes,40.9220447,-3.6857781,Garganta de los Montes
+28063,06,Madrid,Sierra Norte,gargantilla-del-lozoya-y-pinilla-de-buitrago,40.9648298,-3.7079745,Gargantilla del Lozoya y Pinilla de Buitrago
+28064,06,Madrid,Sierra Norte,gascones,41.0182682,-3.6417313,Gascones
+28065,04,Madrid,Sur Metropolitano,getafe,40.3082504,-3.7323934,Getafe
+28066,09,Madrid,Sudoeste Comunidad,grinon,40.2146067,-3.856943,Griñón
+28067,06,Madrid,Sierra Norte,guadalix-de-la-sierra,40.7860007,-3.6952896,Guadalix de la Sierra
+28068,11,Madrid,Sierra Central,guadarrama,40.6731798,-4.0875528,Guadarrama
+28069,06,Madrid,Sierra Norte,hiruela-la,40.4722377,-3.7188647,"Hiruela, La"
+28070,06,Madrid,Sierra Norte,horcajo-de-la-sierra-aoslos,41.0551319,-3.5967937,Horcajo de la Sierra-Aoslos
+28071,06,Madrid,Sierra Norte,horcajuelo-de-la-sierra,41.0602602,-3.5461651,Horcajuelo de la Sierra
+28072,05,Madrid,Oeste Metropolitano,hoyo-de-manzanares,40.6226405,-3.9082735,Hoyo de Manzanares
+28073,04,Madrid,Sur Metropolitano,humanes-de-madrid,40.2639589,-3.8171953,Humanes de Madrid
+28074,04,Madrid,Sur Metropolitano,leganes,40.3319506,-3.7686545,Leganés
+28075,08,Madrid,Sudeste Comunidad,loeches,40.3834821,-3.4170301,Loeches
+28076,06,Madrid,Sierra Norte,lozoya,40.9553281,-3.7969976,Lozoya
+28078,06,Madrid,Sierra Norte,madarcos,41.0476701,-3.5820602,Madarcos
+28079,01,Madrid,Municipio de Madrid,madrid,40.4167754,-3.7037902,Madrid
+28080,05,Madrid,Oeste Metropolitano,majadahonda,40.4737586,-3.8683123,Majadahonda
+28082,11,Madrid,Sierra Central,manzanares-el-real,40.7262858,-3.8646893,Manzanares el Real
+28083,07,Madrid,Nordeste Comunidad,meco,40.5539468,-3.3263003,Meco
+28084,03,Madrid,Este Metropolitano,mejorada-del-campo,40.396654,-3.4877129,Mejorada del Campo
+28085,11,Madrid,Sierra Central,miraflores-de-la-sierra,40.8140407,-3.7663657,Miraflores de la Sierra
+28086,07,Madrid,Nordeste Comunidad,molar-el-madrid,40.452722,-3.70687,"Molar, El"
+28087,11,Madrid,Sierra Central,molinos-los,40.4579662,-3.7032858,"Molinos, Los"
+28088,06,Madrid,Sierra Norte,montejo-de-la-sierra,41.0595052,-3.5297283,Montejo de la Sierra
+28089,09,Madrid,Sudoeste Comunidad,moraleja-de-enmedio,40.2596189,-3.8606776,Moraleja de Enmedio
+28090,11,Madrid,Sierra Central,moralzarzal,40.6763507,-3.9704867,Moralzarzal
+28091,08,Madrid,Sudeste Comunidad,morata-de-tajuna,40.2299024,-3.4372149,Morata de Tajuña
+28092,04,Madrid,Sur Metropolitano,mostoles,40.3232129,-3.8676291,Móstoles
+28093,11,Madrid,Sierra Central,navacerrada,40.7285661,-4.0146372,Navacerrada
+28094,06,Madrid,Sierra Norte,navalafuente,40.8233408,-3.6748439,Navalafuente
+28095,10,Madrid,Sierra Sur,navalagamella,40.4685147,-4.1222221,Navalagamella
+28096,09,Madrid,Sudoeste Comunidad,navalcarnero,40.285599,-4.0166526,Navalcarnero
+28097,06,Madrid,Sierra Norte,navarredonda-y-san-mames,40.9906493,-3.7260317,Navarredonda y San Mamés
+28099,10,Madrid,Sierra Sur,navas-del-rey,40.3877545,-4.249999,Navas del Rey
+28100,08,Madrid,Sudeste Comunidad,nuevo-baztan,40.3664953,-3.2435923,Nuevo Baztán
+28101,08,Madrid,Sudeste Comunidad,olmeda-de-las-fuentes,40.3693459,-3.2212883,Olmeda de las Fuentes
+28102,08,Madrid,Sudeste Comunidad,orusco-de-tajuna,40.2836404,-3.2093551,Orusco de Tajuña
+28104,03,Madrid,Este Metropolitano,paracuellos-de-jarama,40.5056034,-3.5302108,Paracuellos de Jarama
+28106,04,Madrid,Sur Metropolitano,parla,40.232367000000004,-3.768906,Parla
+28107,06,Madrid,Sierra Norte,patones,40.8544733,-3.4839237,Patones
+28108,06,Madrid,Sierra Norte,pedrezuela,40.744654,-3.6027866,Pedrezuela
+28109,10,Madrid,Sierra Sur,pelayos-de-la-presa,40.3588183,-4.3344973,Pelayos de la Presa
+28110,08,Madrid,Sudeste Comunidad,perales-de-tajuna,40.2324096,-3.3514863,Perales de Tajuña
+28111,08,Madrid,Sudeste Comunidad,pezuela-de-las-torres,40.418973,-3.1760832,Pezuela de las Torres
+28112,06,Madrid,Sierra Norte,pinilla-del-valle,40.9265024,-3.8203738,Pinilla del Valle
+28113,04,Madrid,Sur Metropolitano,pinto,40.2375052,-3.6967718,Pinto
+28114,06,Madrid,Sierra Norte,pinuecar-gandullas,41.0288141,-3.596457,Piñuécar-Gandullas
+28115,05,Madrid,Oeste Metropolitano,pozuelo-de-alarcon,40.4440049,-3.8056526,Pozuelo de Alarcón
+28116,08,Madrid,Sudeste Comunidad,pozuelo-del-rey,40.3665441,-3.3206352,Pozuelo del Rey
+28117,06,Madrid,Sierra Norte,pradena-del-rincon,41.0440748,-3.5404748,Prádena del Rincón
+28118,06,Madrid,Sierra Norte,puebla-de-la-sierra,41.0117046,-3.4451018,Puebla de la Sierra
+28119,09,Madrid,Sudoeste Comunidad,quijorna,40.429024,-4.0567709,Quijorna
+28120,06,Madrid,Sierra Norte,rascafria,40.9049836,-3.8795305,Rascafría
+28121,06,Madrid,Sierra Norte,reduena,40.8163179,-3.6032704,Redueña
+28122,07,Madrid,Nordeste Comunidad,ribatejada,40.6674275,-3.3930713,Ribatejada
+28123,03,Madrid,Este Metropolitano,rivas-vaciamadrid,40.3519065,-3.5357334,Rivas-Vaciamadrid
+28124,06,Madrid,Sierra Norte,robledillo-de-la-jara,40.9525839,-3.525304,Robledillo de la Jara
+28125,10,Madrid,Sierra Sur,robledo-de-chavela,40.505008,-4.2345159,Robledo de Chavela
+28126,06,Madrid,Sierra Norte,robregordo,41.10675,-3.5934508,Robregordo
+28127,05,Madrid,Oeste Metropolitano,rozas-de-madrid-las,40.3092383,-4.4922092,"Rozas de Madrid, Las"
+28128,10,Madrid,Sierra Sur,rozas-de-puerto-real,40.3092383,-4.4922092,Rozas de Puerto Real
+28129,02,Madrid,Norte Metropolitano,san-agustin-del-guadalix,40.6809652,-3.6154482,San Agustín del Guadalix
+28130,03,Madrid,Este Metropolitano,san-fernando-de-henares,40.4256038,-3.5318722,San Fernando de Henares
+28131,11,Madrid,Sierra Central,san-lorenzo-de-el-escorial,40.5932386,-4.1475748,San Lorenzo de El Escorial
+28132,04,Madrid,Sur Metropolitano,san-martin-de-la-vega,40.2103049,-3.5787384,San Martín de la Vega
+28133,10,Madrid,Sierra Sur,san-martin-de-valdeiglesias,40.3635617,-4.4035034,San Martín de Valdeiglesias
+28134,02,Madrid,Norte Metropolitano,san-sebastian-de-los-reyes,40.5589672,-3.6261976,San Sebastián de los Reyes
+28135,10,Madrid,Sierra Sur,santa-maria-de-la-alameda,40.5963264,-4.2596149,Santa María de la Alameda
+28136,08,Madrid,Sudeste Comunidad,santorcaz,40.4720739,-3.2338527,Santorcaz
+28137,08,Madrid,Sudeste Comunidad,santos-de-la-humosa-los,40.47294,-3.64942,"Santos de la Humosa, Los"
+28138,06,Madrid,Sierra Norte,serna-del-monte-la,40.4724364,-3.7196632,"Serna del Monte, La"
+28140,09,Madrid,Sudoeste Comunidad,serranillos-del-valle,40.2056183,-3.8833494,Serranillos del Valle
+28141,09,Madrid,Sudoeste Comunidad,sevilla-la-nueva,40.3473337,-4.0274014,Sevilla la Nueva
+28143,06,Madrid,Sierra Norte,somosierra,41.1330027,-3.5824103,Somosierra
+28144,11,Madrid,Sierra Central,soto-del-real,40.7528628,-3.7816093,Soto del Real
+28145,07,Madrid,Nordeste Comunidad,talamanca-de-jarama,40.7451696,-3.5111468,Talamanca de Jarama
+28146,08,Madrid,Sudeste Comunidad,tielmes,40.2475704,-3.3124535,Tielmes
+28147,08,Madrid,Sudeste Comunidad,titulcia,40.1377552,-3.5698814,Titulcia
+28148,03,Madrid,Este Metropolitano,torrejon-de-ardoz,40.4567552,-3.4754967,Torrejón de Ardoz
+28149,09,Madrid,Sudoeste Comunidad,torrejon-de-la-calzada,40.1969481,-3.7981283,Torrejón de la Calzada
+28150,09,Madrid,Sudoeste Comunidad,torrejon-de-velasco,40.1874784,-3.7752572,Torrejón de Velasco
+28151,06,Madrid,Sierra Norte,torrelaguna,40.8275222,-3.5395265,Torrelaguna
+28152,05,Madrid,Oeste Metropolitano,torrelodones,40.5766078,-3.9293646,Torrelodones
+28153,06,Madrid,Sierra Norte,torremocha-de-jarama,40.8421508,-3.4946603,Torremocha de Jarama
+28154,08,Madrid,Sudeste Comunidad,torres-de-la-alameda,40.4054714,-3.3615643,Torres de la Alameda
+28155,08,Madrid,Sudeste Comunidad,valdaracete,40.2106498,-3.1949136,Valdaracete
+28156,07,Madrid,Nordeste Comunidad,valdeavero,40.6336227,-3.3351139,Valdeavero
+28157,08,Madrid,Sudeste Comunidad,valdelaguna,40.1616853,-3.3678641,Valdelaguna
+28158,06,Madrid,Sierra Norte,valdemanco,40.8722993,-3.6629577,Valdemanco
+28159,10,Madrid,Sierra Sur,valdemaqueda,40.5104708,-4.2974563,Valdemaqueda
+28160,11,Madrid,Sierra Central,valdemorillo,40.4882928,-4.0337846,Valdemorillo
+28161,04,Madrid,Sur Metropolitano,valdemoro,40.1912403,-3.6740182,Valdemoro
+28162,07,Madrid,Nordeste Comunidad,valdeolmos-alalpardo,40.641084,-3.453025,Valdeolmos-Alalpardo
+28163,07,Madrid,Nordeste Comunidad,valdepielagos,40.7608617,-3.4656137,Valdepiélagos
+28164,07,Madrid,Nordeste Comunidad,valdetorres-de-jarama,40.6955184,-3.5129811,Valdetorres de Jarama
+28165,08,Madrid,Sudeste Comunidad,valdilecha,40.2937839,-3.3023856,Valdilecha
+28166,08,Madrid,Sudeste Comunidad,valverde-de-alcala,40.4190426,-3.2989252,Valverde de Alcalá
+28167,03,Madrid,Este Metropolitano,velilla-de-san-antonio,40.3699557,-3.4864498,Velilla de San Antonio
+28168,06,Madrid,Sierra Norte,vellon-el,40.4786715,-3.7341341,"Vellón, El"
+28169,06,Madrid,Sierra Norte,venturada,40.7990504,-3.6224135,Venturada
+28170,08,Madrid,Sudeste Comunidad,villaconejos,40.1044848,-3.4864498,Villaconejos
+28171,09,Madrid,Sudoeste Comunidad,villa-del-prado,40.2774375,-4.3048305,Villa del Prado
+28172,08,Madrid,Sudeste Comunidad,villalbilla,40.4329592,-3.3005573,Villalbilla
+28173,08,Madrid,Sudeste Comunidad,villamanrique-de-tajo,40.068126,-3.2395077,Villamanrique de Tajo
+28174,09,Madrid,Sudoeste Comunidad,villamanta,40.2986037,-4.1091663,Villamanta
+28175,09,Madrid,Sudoeste Comunidad,villamantilla,40.3418042,-4.1302671,Villamantilla
+28176,05,Madrid,Oeste Metropolitano,villanueva-de-la-canada,40.4481075,-3.9975566,Villanueva de la Cañada
+28177,11,Madrid,Sierra Central,villanueva-del-pardillo,40.4932122,-3.964887,Villanueva del Pardillo
+28178,09,Madrid,Sudoeste Comunidad,villanueva-de-perales,40.3453499,-4.1021346,Villanueva de Perales
+28179,08,Madrid,Sudeste Comunidad,villar-del-olmo,40.3361286,-3.2360518,Villar del Olmo
+28180,08,Madrid,Sudeste Comunidad,villarejo-de-salvanes,40.1681485,-3.275967,Villarejo de Salvanés
+28181,05,Madrid,Oeste Metropolitano,villaviciosa-de-odon,40.3626807,-3.9139109,Villaviciosa de Odón
+28182,06,Madrid,Sierra Norte,villavieja-del-lozoya,41.0063444,-3.6711079,Villavieja del Lozoya
+28183,10,Madrid,Sierra Sur,zarzalejo,40.5403425,-4.1596946,Zarzalejo
+28901,06,Madrid,Sierra Norte,lozoyuela-navas-sieteiglesias,40.9124015,-3.6116494,Lozoyuela-Navas-Sieteiglesias
+28902,06,Madrid,Sierra Norte,puentes-viejas,40.964983,-3.583199,Puentes Viejas
+28903,02,Madrid,Norte Metropolitano,tres-cantos,40.600727,-3.7079745,Tres Cantos
+45019,13,Toledo,Municipios de la Provincia de Toledo,bargas,39.9399375,-4.0210189,Bargas
+45021,13,Toledo,Municipios de la Provincia de Toledo,borox,40.0721403,-3.7388081,Borox
+45025,13,Toledo,Municipios de la Provincia de Toledo,cabanas-de-la-sagra,40.0077856,-3.9483142,Cabañas de la Sagra
+45031,13,Toledo,Municipios de la Provincia de Toledo,camarena,40.0914294,-4.1193959,Camarena
+45038,13,Toledo,Municipios de la Provincia de Toledo,carranque,40.1705846,-3.8999013,Carranque
+45041,13,Toledo,Municipios de la Provincia de Toledo,casarrubios-del-monte,40.1836187,-4.0362101,Casarrubios del Monte
+45047,13,Toledo,Municipios de la Provincia de Toledo,cedillo-del-condado,40.116053,-3.9253761,Cedillo del Condado
+45050,13,Toledo,Municipios de la Provincia de Toledo,ciruelos,39.9385333,-3.6148151,Ciruelos
+45056,13,Toledo,Municipios de la Provincia de Toledo,chozas-de-canales,40.0991509,-4.0452765,Chozas de Canales
+45064,13,Toledo,Municipios de la Provincia de Toledo,esquivias,40.1033769,-3.767635899999999,Esquivias
+45066,13,Toledo,Municipios de la Provincia de Toledo,fuensalida,40.0510725,-4.2102716,Fuensalida
+45081,13,Toledo,Municipios de la Provincia de Toledo,illescas,40.1262812,-3.8489895,Illescas
+45085,13,Toledo,Municipios de la Provincia de Toledo,lominchar,40.09156249999999,-3.9687122,Lominchar
+45088,13,Toledo,Municipios de la Provincia de Toledo,magan,39.9596149,-3.933020999999999,Magán
+45099,13,Toledo,Municipios de la Provincia de Toledo,mentrida,40.2394809,-4.1936206,Méntrida
+45102,13,Toledo,Municipios de la Provincia de Toledo,mocejon,39.9382934,-3.9190062,Mocejón
+45119,13,Toledo,Municipios de la Provincia de Toledo,numancia-de-la-sagra,40.0770092,-3.8570215,Numancia de la Sagra
+45121,13,Toledo,Municipios de la Provincia de Toledo,ocana,39.9569147,-3.4982579,Ocaña
+45122,13,Toledo,Municipios de la Provincia de Toledo,olias-del-rey,39.9449708,-3.9865671,Olías del Rey
+45123,13,Toledo,Municipios de la Provincia de Toledo,ontigola,40.0097043,-3.5724118,Ontígola
+45127,13,Toledo,Municipios de la Provincia de Toledo,palomeque,40.1198676,-3.963612,Palomeque
+45128,13,Toledo,Municipios de la Provincia de Toledo,pantoja,40.0448315,-3.836269399999999,Pantoja
+45134,13,Toledo,Municipios de la Provincia de Toledo,portillo-de-toledo,40.0619825,-4.226927799999999,Portillo de Toledo
+45157,13,Toledo,Municipios de la Provincia de Toledo,santa-cruz-del-retamar,40.1176861,-4.2423075,Santa Cruz del Retamar
+45161,13,Toledo,Municipios de la Provincia de Toledo,sesena,40.1051029,-3.6927472,Seseña
+45168,13,Toledo,Municipios de la Provincia de Toledo,toledo,39.8628316,-4.027323099999999,Toledo
+45171,13,Toledo,Municipios de la Provincia de Toledo,torre-de-esteban-hambran,40.1663643,-4.2154664,Torre de Esteban Hambrán
+45176,13,Toledo,Municipios de la Provincia de Toledo,ugena,40.1585774,-3.8769847,Ugena
+45180,13,Toledo,Municipios de la Provincia de Toledo,valmojado,40.2049459,-4.088712999999999,Valmojado
+45183,13,Toledo,Municipios de la Provincia de Toledo,las-ventas-de-retamosa,40.1582123,-4.1462582,Las Ventas de Retamosa
+45188,13,Toledo,Municipios de la Provincia de Toledo,villaluenga-de-la-sagra,40.02312269999999,-3.9113634,Villaluenga de la Sagra
+45199,13,Toledo,Municipios de la Provincia de Toledo,el-viso-de-san-juan,40.1437281,-3.9196432,El Viso de San Juan
+45201,13,Toledo,Municipios de la Provincia de Toledo,yeles,40.1206959,-3.8051187,Yeles
+45203,13,Toledo,Municipios de la Provincia de Toledo,yuncler,40.04262689999999,-3.9024482,Yuncler
+45205,13,Toledo,Municipios de la Provincia de Toledo,yuncos,40.0883936,-3.8731663,Yuncos

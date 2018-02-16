@@ -1,0 +1,235 @@
+CÓDIGO,Zona Estadística,Nombre,Provincia
+19024,12,Alovera,Guadalajara
+19046,12,Azuqueca de Henares,Guadalajara
+19058,12,Cabanillas del Campo,Guadalajara
+19071,12,El casar,Guadalajara
+19105,12,Chiloeches,Guadalajara
+19117,12,Fontanar,Guadalajara
+19126,12,Galápagos,Guadalajara
+19130,12,Guadalajara,Guadalajara
+19160,12,Loranca de Tajuña,Guadalajara
+19171,12,Marchamalo,Guadalajara
+19220,12,Pioz,Guadalajara
+19225,12,Pozo de Guadalajara,Guadalajara
+19230,12,Quer,Guadalajara
+19280,12,Torrejón del Rey,Guadalajara
+19286,12,Tórtola de Henares,Guadalajara
+19297,12,Valdarachas,Guadalajara
+19300,12,Valdeaveruelo,Guadalajara
+19319,12,Villanueva de la Torre,Guadalajara
+19326,12,Yebes,Guadalajara
+19331,12,Yunquera de Henares,Guadalajara
+28001,06,La Acebeda,Madrid
+28002,03,Ajalvir,Madrid
+28003,06,Alameda del Valle,Madrid
+28004,09,El Alamo,Madrid
+28005,03,Alcalá de Henares,Madrid
+28006,02,Alcobendas,Madrid
+28007,04,Alcorcón,Madrid
+28008,09,Aldea del Fresno,Madrid
+28009,02,Algete,Madrid
+28010,11,Alpedrete,Madrid
+28011,08,Ambite,Madrid
+28012,08,Anchuelo,Madrid
+28013,04,Aranjuez,Madrid
+28014,03,Arganda del Rey,Madrid
+28015,09,Arroyomolinos,Madrid
+28016,06,El Atazar,Madrid
+28017,09,Batres,Madrid
+28018,11,Becerril de la Sierra,Madrid
+28019,08,Belmonte de Tajo,Madrid
+28020,06,Berzosa del Lozoya,Madrid
+28021,06,El Berrueco,Madrid
+28022,05,Boadilla del Monte,Madrid
+28023,11,El Boalo,Madrid
+28024,06,Braojos,Madrid
+28025,08,Brea de Tajo,Madrid
+28026,05,Brunete,Madrid
+28027,06,Buitrago del Lozoya,Madrid
+28028,06,Bustarviejo,Madrid
+28029,06,Cabanillas de la Sierra,Madrid
+28030,06,La Cabrera,Madrid
+28031,10,Cadalso de los Vidrios,Madrid
+28032,07,Camarma de Esteruelas,Madrid
+28033,08,Campo Real,Madrid
+28034,06,Canencia,Madrid
+28035,08,Carabaña,Madrid
+28036,09,Casarrubuelos,Madrid
+28037,10,Cenicientos,Madrid
+28038,11,Cercedilla,Madrid
+28039,06,Cervera de Buitrago,Madrid
+28040,04,Ciempozuelos,Madrid
+28041,02,Cobeña,Madrid
+28042,10,Colmenar del Arroyo,Madrid
+28043,08,Colmenar de Oreja,Madrid
+28044,11,Colmenarejo,Madrid
+28045,02,Colmenar Viejo,Madrid
+28046,11,Collado Mediano,Madrid
+28047,05,Collado Villalba,Madrid
+28048,08,Corpa,Madrid
+28049,03,Coslada,Madrid
+28050,09,Cubas de la Sagra,Madrid
+28051,10,Chapinería,Madrid
+28052,08,Chinchón,Madrid
+28053,07,Daganzo de Arriba,Madrid
+28054,11,El Escorial,Madrid
+28055,08,Estremera,Madrid
+28056,10,Fresnedillas de la Oliva,Madrid
+28057,07,Fresno de Torote,Madrid
+28058,04,Fuenlabrada,Madrid
+28059,07,Fuente el Saz de Jarama,Madrid
+28060,08,Fuentidueña de Tajo,Madrid
+28061,05,Galapagar,Madrid
+28062,06,Garganta de los Montes,Madrid
+28063,06,Gargantilla del Lozoya y Pinilla de B.,Madrid
+28064,06,Gascones,Madrid
+28065,04,Getafe,Madrid
+28066,09,Griñón,Madrid
+28067,06,Guadalix de la Sierra,Madrid
+28068,11,Guadarrama,Madrid
+28069,06,La Hiruela,Madrid
+28070,06,Horcajo de la Sierra,Madrid
+28071,06,Horcajuelo de la Sierra,Madrid
+28072,05,Hoyo de Manzanares,Madrid
+28073,04,Humanes de Madrid,Madrid
+28074,04,Leganés,Madrid
+28075,08,Loeches,Madrid
+28076,06,Lozoya,Madrid
+28078,06,Madarcos,Madrid
+28079,01,Madrid,Madrid
+28080,05,Majadahonda,Madrid
+28082,11,Manzanares El Real,Madrid
+28083,07,Meco,Madrid
+28084,03,Mejorada del Campo,Madrid
+28085,11,Miraflores de la Sierra,Madrid
+28086,07,El Molar,Madrid
+28087,11,Los Molinos,Madrid
+28088,06,Montejo de la Sierra,Madrid
+28089,09,Moraleja de Enmedio,Madrid
+28090,11,Moralzarzal,Madrid
+28091,08,Morata de Tajuña,Madrid
+28092,04,Móstoles,Madrid
+28093,11,Navacerrada,Madrid
+28094,06,Navalafuente,Madrid
+28095,10,Navalagamella,Madrid
+28096,09,Navalcarnero,Madrid
+28097,06,Navarredonda y San Mamés,Madrid
+28099,10,Navas del Rey,Madrid
+28100,08,Nuevo Baztán,Madrid
+28101,08,Olmeda de las Fuentes,Madrid
+28102,08,Orusco de Tajuña,Madrid
+28104,03,Paracuellos de Jarama,Madrid
+28106,04,Parla,Madrid
+28107,06,Patones,Madrid
+28108,06,Pedrezuela,Madrid
+28109,10,Pelayos de la Presa,Madrid
+28110,08,Perales de Tajuña,Madrid
+28111,08,Pezuela de las Torres,Madrid
+28112,06,Pinilla del Valle,Madrid
+28113,04,Pinto,Madrid
+28114,06,Piñuecar-Gandullas,Madrid
+28115,05,Pozuelo de Alarcón,Madrid
+28116,08,Pozuelo del Rey,Madrid
+28117,06,Prádena del Rincón,Madrid
+28118,06,Puebla de la Sierra,Madrid
+28119,09,Quijorna,Madrid
+28120,06,Rascafría,Madrid
+28121,06,Redueña,Madrid
+28122,07,Ribatejada,Madrid
+28123,03,Rivas-Vaciamadrid,Madrid
+28124,06,Robledillo de la Jara,Madrid
+28125,10,Robledo de Chavela,Madrid
+28126,06,Robregordo,Madrid
+28127,05,Las Rozas de Madrid,Madrid
+28128,10,Rozas de Puerto Real,Madrid
+28129,02,San Agustín del Guadalix,Madrid
+28130,03,San Fernando de Henares,Madrid
+28131,11,San Lorenzo de El Escorial,Madrid
+28132,04,San Martín de la Vega,Madrid
+28133,10,San Martín de Valdeiglesias,Madrid
+28134,02,San Sebastián de los Reyes,Madrid
+28135,10,Santa María de la Alameda,Madrid
+28136,08,Santorcaz,Madrid
+28137,08,Los Santos de la Humosa,Madrid
+28138,06,La Serna del Monte,Madrid
+28140,09,Serranillos del Valle,Madrid
+28141,09,Sevilla la Nueva,Madrid
+28143,06,Somosierra,Madrid
+28144,11,Soto del Real,Madrid
+28145,07,Talamanca de Jarama,Madrid
+28146,08,Tielmes,Madrid
+28147,08,Titulcia,Madrid
+28148,03,Torrejón de Ardoz,Madrid
+28149,09,Torrejón de la Calzada,Madrid
+28150,09,Torrejón de Velasco,Madrid
+28151,06,Torrelaguna,Madrid
+28152,05,Torrelodones,Madrid
+28153,06,Torremocha de Jarama,Madrid
+28154,08,Torres de la Alameda,Madrid
+28155,08,Valdaracete,Madrid
+28156,07,Valdeavero,Madrid
+28157,08,Valdelaguna,Madrid
+28158,06,Valdemanco,Madrid
+28159,10,Valdemaqueda,Madrid
+28160,11,Valdemorillo,Madrid
+28161,04,Valdemoro,Madrid
+28162,07,Valdeolmos-Alalpardo,Madrid
+28163,07,Valdepiélagos,Madrid
+28164,07,Valdetorres de Jarama,Madrid
+28165,08,Valdilecha,Madrid
+28166,08,Valverde de Alcalá,Madrid
+28167,03,Velilla de San Antonio,Madrid
+28168,06,El Vellón,Madrid
+28169,06,Venturada,Madrid
+28170,08,Villaconejos,Madrid
+28171,09,Villa del Prado,Madrid
+28172,08,Villalbilla,Madrid
+28173,08,Villamanrique de Tajo,Madrid
+28174,09,Villamanta,Madrid
+28175,09,Villamantilla,Madrid
+28176,05,Villanueva de la Cañada,Madrid
+28177,11,Villanueva del Pardillo,Madrid
+28178,09,Villanueva de Perales,Madrid
+28179,08,Villar del Olmo,Madrid
+28180,08,Villarejo de Salvanés,Madrid
+28181,05,Villaviciosa de Odón,Madrid
+28182,06,Villavieja del Lozoya,Madrid
+28183,10,Zarzalejo,Madrid
+28901,06,Lozoyuela-Navas-Sieteiglesias,Madrid
+28902,06,Puentes Viejas,Madrid
+28903,02,Tres Cantos,Madrid
+45019,13,Bargas,Toledo
+45021,13,Borox,Toledo
+45025,13,Cabañas de la Sagra,Toledo
+45031,13,Camarena,Toledo
+45038,13,Carranque,Toledo
+45041,13,Casarrubios del Monte,Toledo
+45047,13,Cedillo del Condado,Toledo
+45050,13,Ciruelos,Toledo
+45056,13,Chozas de Canales,Toledo
+45064,13,Esquivias,Toledo
+45066,13,Fuensalida,Toledo
+45081,13,Illescas,Toledo
+45085,13,Lominchar,Toledo
+45088,13,Magán,Toledo
+45099,13,Méntrida,Toledo
+45102,13,Mocejón,Toledo
+45119,13,Numancia de la Sagra,Toledo
+45121,13,Ocaña,Toledo
+45122,13,Olías del Rey,Toledo
+45123,13,Ontígola,Toledo
+45127,13,Palomeque,Toledo
+45128,13,Pantoja,Toledo
+45134,13,Portillo de Toledo,Toledo
+45157,13,Santa Cruz del Retamar,Toledo
+45161,13,Seseña,Toledo
+45168,13,Toledo,Toledo
+45171,13,Torre de Esteban Hambrán,Toledo
+45176,13,Ugena,Toledo
+45180,13,Valmojado,Toledo
+45183,13,Las Ventas de Retamosa,Toledo
+45188,13,Villaluenga de la Sagra,Toledo
+45199,13,El Viso de San Juan,Toledo
+45201,13,Yeles,Toledo
+45203,13,Yuncler,Toledo
+45205,13,Yuncos,Toledo
